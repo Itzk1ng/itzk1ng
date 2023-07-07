@@ -1,4 +1,4 @@
-<h1 align="center">Just one boy tryna take over the world</h1>
+<h1 align="center">Just one boy who tryna take over the world</h1>
 
 <img align="right" alt="me" width="400" src="https://images.wallpapersden.com/image/download/sung-jin-woo-8k-solo-leveling_bGhnZmaUmZqaraWkpJRmZ2dprWZnZ2k.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzk1ng&label=Profile%20views&color=0e75b6&style=flat" alt="k1ng" /> </p>
