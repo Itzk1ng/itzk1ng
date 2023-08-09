@@ -13,7 +13,7 @@
 - ♥️Fun fact: 
 **I am your real Dad XD**
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishu-hinata&show_icons=true&locale=en&layout=compact" alt="ishu-hinata"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzk1ng&show_icons=true&locale=en&layout=compact" alt="UR DAD"/>
 
 
 <video width="320" height="240" controls>
